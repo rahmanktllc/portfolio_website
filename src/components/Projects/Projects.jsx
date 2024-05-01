@@ -35,7 +35,7 @@ function Projects() {
                 projectDescription: "Email Scheduler Application automates sending emails with resumes to HR. It leverages Spring Boot, Spring Data JPA, Hibernate, MySQL, and PDFTOJAVA for efficient scheduling and delivery. The application offers a user-friendly dashboard to schedule emails, track deliveries, and effortlessly manage resume templates, ensuring a seamless user experience and productivity enhancement."
             },
             {
-                projectLogo: "/src/components/Images/Fake.png",
+                projectLogo: "https://6632993e258718009f791738--ar3hma.netlify.app/src/components/Images/Fake.png ",
                 projectName: "Prank Payment",
                 technologyUsed: "React Native, Spring Boot, Spring Data JPA, Hibernate, MySQL",
                 projectDescription: "Prank Payment Application is a unique project developed with React Native for the frontend and Spring Boot for the backend. It simulates a payment application interface but with a humorous twist. Users can prank their friends by sending fake payment notifications and enjoy the reactions. The application includes interactive features and realistic UI elements to enhance the prank experience."
