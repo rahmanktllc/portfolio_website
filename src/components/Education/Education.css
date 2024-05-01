@@ -1,0 +1,57 @@
+.education {
+    background: linear-gradient(#322755, #28283d);
+    height: 50vh;
+    padding-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.college-details {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+
+.collegeName {
+    font-size: medium;
+    color: #9c8fcc;
+}
+
+.collegeDate {
+    font-size: small;
+    color: grey;
+}
+
+.boxcollege {
+    background-color: transparent;
+    border: solid 1px #439ae2;
+    width: 100%;
+    border-radius: 20px;
+    box-shadow: 0 0 10px 5px rgba(54, 149, 201, 0.10);
+    cursor: pointer;
+    margin-top: 30px;
+}
+
+@media (max-width: 767.98px) {
+    .boxcollege {
+        width: 100%;
+    }
+}
+
+.college-logo {
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.college-details {
+    padding: 10px;
+}
+
+.college-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

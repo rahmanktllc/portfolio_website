@@ -1,0 +1,54 @@
+.buttoninfo {
+    border-radius: 50px;
+    width: 150px;
+    border-color: #439ae2;
+    color: #439ae2;
+}
+
+.buttoninfo:hover {
+    background-color: #439ae2;
+    color: white;
+}
+
+.navbody {
+    background-color: #1b1826;
+    padding: 15px 100px;
+}
+
+.nav-link {
+    color: rgb(207, 205, 205);
+    font-weight: 600;
+}
+
+.buttoninfonew {
+    border-radius: 50px;
+    width: 150px;
+    border-color: white;
+    color: #439ae2;
+    background-color: white;
+}
+
+.buttoninfonew:hover {
+    background-color: #439ae2;
+    color: white;
+    border-color: #439ae2
+}
+
+.navbar-toggler {
+    color: white;
+    background-color: white;
+}
+
+.navbar-toggler-icon {
+    background-color: white;
+}
+
+@media screen and (max-width: 990px) {
+    .navbar-toggler {
+        margin-left: auto;
+    }
+
+    .navbody {
+        padding: 15px 50px;
+    }
+}

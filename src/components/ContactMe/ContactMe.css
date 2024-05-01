@@ -1,0 +1,27 @@
+.contact {
+    background: linear-gradient(#28283d, #322755);
+    /* Corrected linear-gradient syntax */
+    padding: 4rem 2rem;
+    text-align: center;
+}
+
+.contact h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    color: white;
+}
+
+.contact p {
+    font-size: 1.2rem;
+    color: white;
+}
+
+.contact a {
+    color: #007bff;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.contact a:hover {
+    color: #0056b3;
+}
