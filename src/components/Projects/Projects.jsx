@@ -11,25 +11,25 @@ function Projects() {
     const projectDetails = () => {
         return [
             {
-                projectLogo: "/src/components/Images/Wafa1.png",
+                projectLogo: "/Wafa1.png",
                 projectName: "Wafa Enterprises",
                 technologyUsed: "React JSX, Spring Boot, Spring Data JPA, Hibernate, Spring Security, MySQL",
                 projectDescription: "Wafa Enterprises is a sophisticated payment application designed to facilitate lucky draw transactions. It offers both Admin and User login functionalities, allowing seamless access to transaction details and account management."
             },
             {
-                projectLogo: "/src/components/Images/movieBooking1.png",
+                projectLogo: "/movieBooking1.png",
                 projectName: "Movie Booking",
                 technologyUsed: "React JSX, Spring Boot, Spring Data JPA, Hibernate, Spring Security, MySQL, RazorPay",
                 projectDescription: "Movie Booking - Payment Application facilitates movie ticket bookings and payments. It utilizes advanced technologies like React JSX, Spring Boot, Spring Data JPA, Hibernate, Spring Security, MySQL, and RazorPay for secure and efficient booking experiences."
             },
             {
-                projectLogo: "/src/components/Images/ResumeBuilder1.png",
+                projectLogo: "/ResumeBuilder1.png",
                 projectName: "Resume Builder",
                 technologyUsed: "React JSX, Spring Boot, Spring Data JPA, Hibernate, MySQL",
                 projectDescription: "Resume Builder - Application assists users in creating professional resumes effortlessly. It employs React JSX, Spring Boot, Spring Data JPA, Hibernate, and MySQL for seamless user experiences. With its intuitive interface and customizable templates, users can tailor their resumes to suit various industries."
             },
             {
-                projectLogo: "/components/Images/EmailScheduler.PNG",
+                projectLogo: "/EmailScheduler.PNG",
                 projectName: "Email Scheduler",
                 technologyUsed: "Spring Boot, Spring Data JPA, Hibernate, MySQL, PDFTOJAVA",
                 projectDescription: "Email Scheduler Application automates sending emails with resumes to HR. It leverages Spring Boot, Spring Data JPA, Hibernate, MySQL, and PDFTOJAVA for efficient scheduling and delivery. The application offers a user-friendly dashboard to schedule emails, track deliveries, and effortlessly manage resume templates, ensuring a seamless user experience and productivity enhancement."
