@@ -29,7 +29,7 @@ function Projects() {
                 projectDescription: "Resume Builder - Application assists users in creating professional resumes effortlessly. It employs React JSX, Spring Boot, Spring Data JPA, Hibernate, and MySQL for seamless user experiences. With its intuitive interface and customizable templates, users can tailor their resumes to suit various industries."
             },
             {
-                projectLogo: "/src/components/Images/EmailScheduler.PNG",
+                projectLogo: "/components/Images/EmailScheduler.PNG",
                 projectName: "Email Scheduler",
                 technologyUsed: "Spring Boot, Spring Data JPA, Hibernate, MySQL, PDFTOJAVA",
                 projectDescription: "Email Scheduler Application automates sending emails with resumes to HR. It leverages Spring Boot, Spring Data JPA, Hibernate, MySQL, and PDFTOJAVA for efficient scheduling and delivery. The application offers a user-friendly dashboard to schedule emails, track deliveries, and effortlessly manage resume templates, ensuring a seamless user experience and productivity enhancement."
