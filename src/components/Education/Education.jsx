@@ -5,7 +5,7 @@ function Education() {
     const collegeDetails = () => {
         return [
             {
-                collegeLogo: "/src/components/Images/sahyadri.jpg",
+                collegeLogo: "./sahyadri.jpg",
                 collegeName: "Sahyadri College of Engineering and Management",
                 date: "Aug 2016 - Aug 2020",
                 collegeDegreeTitle: "Bachelor of Engineering (Mechanical)",
