@@ -41,7 +41,7 @@ function Experience() {
     const boxDetails = () => {
         return [
             {
-                companyLogo: "/public/infosys.jpg",
+                companyLogo: "/src/components/Images/infosys.jpg",
                 companyName: "Infosys Limited",
                 date: "Nov 2023 - Feb 2024",
                 jobTitle: "Senior Systems Engineer",
@@ -53,7 +53,7 @@ function Experience() {
                 </ul>`,
             },
             {
-                companyLogo: "/public/infosys.jpg",
+                companyLogo: "/src/components/Images/infosys.jpg",
                 companyName: "Infosys Limited",
                 date: "Mar 2022 - Nov 2023",
                 jobTitle: "Systems Engineer",
@@ -65,7 +65,7 @@ function Experience() {
                 </ul>`,
             },
             {
-                companyLogo: "/public/infosys.jpg",
+                companyLogo: "/src/components/Images/infosys.jpg",
                 companyName: "Infosys Limited",
                 date: "Dec 2021 - Mar 2022",
                 jobTitle: "Systems Engineer Trainee",
@@ -76,7 +76,7 @@ function Experience() {
                 </ul>`,
             },
             {
-                companyLogo: "/public/glowtouch.jpg",
+                companyLogo: "/src/components/Images/glowtouch.jpg",
                 companyName: "Glowtouch Technologies Pvt. Ltd",
                 date: "Apr 2021 - Dec 2021",
                 jobTitle: "Junior Administrator L1",

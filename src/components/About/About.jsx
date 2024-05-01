@@ -33,7 +33,7 @@ function About() {
 
                     </div>
                     <div className="col-lg-6 col-md-12 col-sm-12 text-center">
-                        <img src={'/public/DP2.png'} alt="My Image" className="img-fluid" style={{ height: '600px' }} />
+                        <img src={'/src/components/Images/DP2.png'} alt="My Image" className="img-fluid" style={{ height: '600px' }} />
                     </div>
                 </div>
             </div>
