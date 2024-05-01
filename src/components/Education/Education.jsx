@@ -20,7 +20,7 @@ function Education() {
             <h1 className='text-center text-light mt-3'>Education</h1>
             <div className="row">
                 <div className="col-12 d-flex justify-content-center">
-                    <div className="box-content">
+                    <div className="box-contents">
                         <div className="boxcollege">
                             <div className="college-content">
                                 {details.collegeLogo && (
