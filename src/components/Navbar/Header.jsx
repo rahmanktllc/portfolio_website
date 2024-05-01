@@ -43,7 +43,9 @@ function Header() {
                     <div className="collapse navbar-collapse justify-content-end" id="navbarNav">
                         <ul className="navbar-nav">
                             <li className="nav-item">
-                                <button type="button" className="btn buttoninfonew nav-link">GitHub Profile</button>
+                                <button type="button" className="btn buttoninfo" onClick={() => window.open('https://github.com/ar3hma786')}>
+                                    GitHub Profile
+                                </button>
                             </li>
                         </ul>
                     </div>
