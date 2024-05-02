@@ -46,10 +46,12 @@
 
 .companyName {
     font-size: 1rem;
+    color: grey;
 }
 
 .companyDate {
     font-size: 1rem;
+    color: rgb(204, 183, 183);
 }
 
 .companyDescription {
@@ -70,8 +72,22 @@
     }
 
     .companyDescription {
-        font-size: 0.8rem;
+        font-size: 0.6rem;
     }
+
+    .companyDate {
+        font-size: 0.6rem;
+    }
+
+    .companyName {
+        font-size: 0.9rem;
+    }
+
+    .boxdetails {
+        font-size: 0.9rem;
+    }
+
+
 
     @media screen and (max-width: 767px) {
 
