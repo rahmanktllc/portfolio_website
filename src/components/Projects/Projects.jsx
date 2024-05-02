@@ -52,8 +52,8 @@ function Projects() {
                         <div key={index} className='projectbox col-lg-4 col-md-6 col-sm-12'>
                             <img src={project.projectLogo} alt="Project Logo" className="project-logo img-fluids" />
                             <h2 className='mt-3' style={{ fontSize: '1.5rem' }}>{project.projectName}</h2>
-                            <p className='' style={{ fontSize: '0.8rem' }}>{project.projectDescription}</p>
-                            <p style={{ fontSize: '0.8rem' }}>Technologies used: {project.technologyUsed}</p>
+                            <p className='' style={{ fontSize: '0.75rem' }}>{project.projectDescription}</p>
+                            <p style={{ fontSize: '0.75rem' }}>Technologies used: {project.technologyUsed}</p>
                         </div>
                     ))}
                 </div>
