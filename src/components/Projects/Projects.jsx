@@ -44,8 +44,8 @@ function Projects() {
     };
 
     return (
-        <div className='projects' id='projects' style={{ paddingTop: '80px' }}>
-            <h1 className='text-center text-light'>Projects</h1>
+        <div className='projects' id='projects'>
+            <h1 className='text-center text-light' style={{ paddingTop: '80px' }}>Projects</h1>
             <div className="projects-container mt-5">
                 <div className="row justify-content-center">
                     {projectDetails().map((project, index) => (

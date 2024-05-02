@@ -1,6 +1,7 @@
 .experience {
     background: linear-gradient(#28283d, #1e1c25);
-    padding: 80px 300px 50px 300px;
+    padding: 80px 300px 0 300px;
+    height: auto;
 
 }
 
