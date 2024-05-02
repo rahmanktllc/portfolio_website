@@ -93,7 +93,6 @@ function Skills() {
         <div className='skills-container' id='skills' style={{ paddingTop: '80px' }}>
             <div className='skills-content'>
                 <h1 className='skills-title text-center'>Skills</h1>
-                <p className='skills-description text-center p-3'>Cultivating these skills has been a focal point of my efforts over the past two years.</p>
                 <div className='row'>
                     <div className="col-lg-6 col-md-6 col-sm-12">
                         <div className="box">

@@ -101,8 +101,7 @@ function Experience() {
     return (
         <div className='experience' id='experience' >
             <h1 className='text-center text-light'>Experience</h1>
-            <p className='experience-description text-center m-3 pb-5 pt-3'>Experienced software engineer with a proven track record in various companies and projects, demonstrating proficiency in diverse technologies and methodologies.</p>
-            <div className='row'>
+            <div className='row mt-5'>
                 {details.map((boxDetail, index) => (
                     <div
                         key={index}

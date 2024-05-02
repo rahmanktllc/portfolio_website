@@ -46,7 +46,6 @@ function Projects() {
     return (
         <div className='projects' id='projects' style={{ paddingTop: '80px' }}>
             <h1 className='text-center text-light'>Projects</h1>
-            <p className='text-center mt-5' style={{ paddingRight: '90px', paddingLeft: '90px' }}>I've worked on a variety of projects across different domains, including web and mobile applications. Below, you'll find highlights from some of my key projects.</p>
             <div className="projects-container mt-5">
                 <div className="row justify-content-center">
                     {projectDetails().map((project, index) => (
