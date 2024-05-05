@@ -25,3 +25,15 @@
 .contact a:hover {
     color: #0056b3;
 }
+
+@media (max-width: 767.98px) {
+
+    .contact h2 {
+        font-size: 2rem;
+    }
+
+    .contact p {
+        font-size: 1rem;
+    }
+
+}
