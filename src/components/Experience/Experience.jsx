@@ -43,7 +43,7 @@ function Experience() {
             {
                 companyLogo: "/infosys.jpg",
                 companyName: "Infosys Limited",
-                date: "Nov 2023 - Apr 2024",
+                date: "Feb 2024 - Apr 2024",
                 jobTitle: "Senior Systems Engineer",
                 description: `<ul>
                     <li>Developed scalable backend systems using Java and Spring Boot, integrating Spring Data JPA for efficient database operations.</li>
@@ -55,7 +55,7 @@ function Experience() {
             {
                 companyLogo: "/infosys.jpg",
                 companyName: "Infosys Limited",
-                date: "Mar 2022 - Nov 2023",
+                date: "Mar 2022 - Feb 2024",
                 jobTitle: "Systems Engineer",
                 description: `<ul>
                     <li>Learnt Java and Spring Boot basics with senior developers' guidance for backend system development.</li>
