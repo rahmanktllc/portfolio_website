@@ -11,8 +11,8 @@ function Projects() {
     const projectDetails = () => {
         return [
             {
-                projectLogo: "/bmr.png",
-                projectName: "BMR SAAS Application",
+                projectLogo: "/bmr.png", 
+                projectName: "BMR Saas Application",
                 technologyUsed: "React JSX, Tailwind CSS, Spring Boot, Spring Data JPA, Hibernate, Spring JWT, OAuth, TokenUtil, Microservices, Apache Kafka.",
                 projectDescription: "BMR is a robust multi-tenant SaaS application designed for product management. Leveraging an advanced microservices architecture, it ensures scalable and secure management of products across diverse tenant environments while facilitating realtime communication"
             },
